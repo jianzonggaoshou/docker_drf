@@ -25,7 +25,7 @@ SECRET_KEY = ')-irfqi*@hsb&tcpin_2wd(+v1++2zx^@%$$l3!xr&rodw@x(('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*",]
 
 
 # Application definition
